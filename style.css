@@ -1,0 +1,57 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.banner_padding{
+    padding: 100px 85px;      
+}
+.banner_back{
+    background-color: lightcyan;
+}
+.banner_text{
+    padding-top: 60px;
+}
+.p{
+    font-size: 18px;
+    font-weight: 600;
+}
+.h2{
+    font-size: 38px;
+    font-weight: 600;
+}
+.banner_h1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.banner_h1 span{
+    color: #5E3BEE;
+}
+.banner_p1{
+    font-size: 22px;
+    font-weight: 400;
+    color: rgb(97, 97, 97);
+}
+.git_btn{
+    background-color: #5E3BEE !important;
+}
+.card-h5{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.card-p{
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+}
+.cardss{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.card_back{
+    background-color: lightcyan;
+}
+.abt_text{
+    padding: 60px 50px;
+}
